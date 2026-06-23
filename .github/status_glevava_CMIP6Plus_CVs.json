@@ -10,14 +10,21 @@
         "comment": [
             "",
             "",
-            "## Version Updated: v6.5.9.1 \u2192 v6.5.9.2",
+            "## Version Updated: v6.5.9.2 \u2192 v6.5.9.2",
             "",
             ">> \\` v{w}.{x}.{y}.{z} \\`",
             "For further information: [see the wiki](https://wiki.mipcvs.dev)",
             "",
-            " ",
+            "- [x] **z** version number \u2191 :: *source_id (GFDL-CM4)* ",
             "#### <ins>Updating version index \"z\"</ins>",
-            "- [x] **z** version number \u2191 :: *source_id (GFDL-CM4)*"
+            " ",
+            "",
+            "For further information: [see the wiki](https://wiki.mipcvs.dev)",
+            ">> \\` v{w}.{x}.{y}.{z} \\`",
+            "",
+            "## Version Updated: v6.5.9.1 \u2192 v6.5.9.2",
+            "",
+            ""
         ]
     },
     "source_id": {
